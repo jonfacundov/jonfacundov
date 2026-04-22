@@ -68,7 +68,7 @@ Soy **Líder Técnico y Arquitecto de Software** con más de **10 años de exper
 | [🔗 microservices-hexagonal-demo](https://github.com/jonfacundov/microservices-hexagonal-demo) | Arquitectura hexagonal + CQRS con Spring Boot, Docker y CI/CD | Java · Spring Boot · Docker · PostgreSQL |
 | [🔗 react-typescript-dashboard](https://github.com/jonfacundov/react-typescript-dashboard) | Dashboard de administración con React, TypeScript y JWT Auth | React · TypeScript · REST API |
 | [🔗 devops-ci-cd-pipeline](https://github.com/jonfacundov/devops-ci-cd-pipeline) | Pipeline CI/CD completo con GitLab CI, Docker y SonarQube | GitLab CI · Docker · SonarQube |
-| [ordenaris-risk-engine](https://github.com/jonfacundov/ordenaris-risk-engine) | Motor de riesgo crediticio con 6 reglas configurables, SOLID y Strategy Pattern | Java · Spring Boot · SQLite · JUnit 5 |
+| [🔗 ordenaris-risk-engine](https://github.com/jonfacundov/ordenaris-risk-engine) | Motor de riesgo crediticio con 6 reglas configurables, SOLID y Strategy Pattern | Java · Spring Boot · SQLite · JUnit 5 |
 
 > 🚧 *Repositorios en construcción — actualizando con proyectos personales.*
 
