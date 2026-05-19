@@ -106,7 +106,7 @@ Soy **Líder Técnico y Arquitecto de Software** con más de **10 años de exper
 ### ☁️ Cloud Computing
 * **AWS Cloud Practitioner Essentials** – Fast Lane (2022)
 
-### 📊 Ver certificados
+### 📊 Portafolio de Certificados Académicos
   * 📁 [Ver Carpeta de Certificaciones en Google Drive](https://drive.google.com/drive/folders/1M2Kbky50tS4QZ9eQkEmfzoJNsl6PZhM-?usp=drive_link)
 
 ---
