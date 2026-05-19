@@ -96,6 +96,7 @@ Soy **Líder Técnico y Arquitecto de Software** con más de **10 años de exper
 * **Domina la IA con Gemini** – Santander Open Academy / Google (2026)
 * **Copilot** – Santander Open Academy (2026)
 * **Desarrollo con IA: de 0 a Producción** – BIG school (MoureDev & Romuald Fons, 2026)
+* **Curso de Automatizaciones con N8N e Inteligencia Artificial** – Raiola Networks (Mayo de 2026)
 
 ### 🏗️ Arquitectura de Software & Backend
 * **Arquitectura Software Moderna: DDD, Eventos, Microservicios** – Udemy (2025)
