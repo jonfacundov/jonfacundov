@@ -105,8 +105,8 @@ Soy **Líder Técnico y Arquitecto de Software** con más de **10 años de exper
 ### ☁️ Cloud Computing
 * **AWS Cloud Practitioner Essentials** – Fast Lane (2022)
 
-## 📊 Ver certificados
-* [LinkedIn]([https://www.linkedin.com/in/jonathan-viveros-developer/](https://drive.google.com/drive/folders/1M2Kbky50tS4QZ9eQkEmfzoJNsl6PZhM-?usp=drive_link))
+### 📊 Ver certificados
+  * 📁 [Ver Carpeta de Certificaciones en Google Drive](https://drive.google.com/drive/folders/1M2Kbky50tS4QZ9eQkEmfzoJNsl6PZhM-?usp=drive_link)
 
 ---
 
