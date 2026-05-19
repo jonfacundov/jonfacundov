@@ -87,6 +87,36 @@ Soy **Líder Técnico y Arquitecto de Software** con más de **10 años de exper
 
 ---
 
+## 🚀 Algunas de mis Certificaciones 
+
+### 🤖 Inteligencia Artificial & Productividad (2026)
+* **Google Cloud Skills Boost**
+  * [ ![Google Badge](https://img.shields.io/badge/Google_Skills-Generative_AI_Fundamentals-4285F4?style=flat-square&logo=google&logoColor=white) ](https://www.skills.google/public_profiles/9080309e-9d8d-4195-9773-71ab22f683ee/badges/23950932)
+  * [ ![Google Badge](https://img.shields.io/badge/Google_Skills-Introduction_to_Generative_AI-4285F4?style=flat-square&logo=google&logoColor=white) ](https://www.skills.google/public_profiles/9080309e-9d8d-4195-9773-71ab22f683ee/badges/23911647)
+* **Domina la IA con Gemini** – Santander Open Academy / Google (2026)
+* **Copilot** – Santander Open Academy (2026)
+* **Desarrollo con IA: de 0 a Producción** – BIG school (MoureDev & Romuald Fons, 2026)
+
+### 🏗️ Arquitectura de Software & Backend
+* **Arquitectura Software Moderna: DDD, Eventos, Microservicios** – Udemy (2025)
+* **Curso Restfull Java Spring Boot** – Udemy (2025)
+* **Iníciate como Full Stack Developer con Spring Boot y React** – Udemy (2021)
+
+### ☁️ Cloud Computing
+* **AWS Cloud Practitioner Essentials** – Fast Lane (2022)
+
+## 📊 Ver certificados
+* [LinkedIn]([https://www.linkedin.com/in/jonathan-viveros-developer/](https://drive.google.com/drive/folders/1M2Kbky50tS4QZ9eQkEmfzoJNsl6PZhM-?usp=drive_link))
+
+---
+
+## 🛠️ Tech Stack Principal
+* **Lenguajes & Frameworks:** Java, Spring Boot, React, Quarkus.
+* **Arquitectura:** DDD (Domain-Driven Design), Arquitectura Hexagonal, CQRS, Microservicios, Patrón Saga.
+* **Cloud & DevOps:** AWS, Kubernetes, Docker.
+
+---
+
 ## 📫 Contacto
 
 ¿Tienes un proyecto interesante o una oportunidad? Escríbeme:
